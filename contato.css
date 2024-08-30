@@ -1,0 +1,22 @@
+@media screen and (min-width: 1024px) {
+    .contato {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+  @media screen and (min-width: 1024px) {
+    /* Código omitido */
+  
+    .contato__titulo {
+      font-size: 24px;
+    }
+  }
+  @media screen and (min-width: 1024px) {
+    /* Código omitido */
+  
+    .contato__descrição {
+      margin-right: 1em;
+      width: 30%;
+    }
+  }
